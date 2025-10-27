@@ -1,0 +1,8 @@
+site_name: My Docs
+theme:
+  name: material
+
+nav:
+  - Inici: index.md
+  - Documentació: documentacio_examen/documentacio_examen.md
+  - Comandaments: comandos.md
